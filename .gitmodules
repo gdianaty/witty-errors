@@ -1,0 +1,3 @@
+[submodule "witty-errors"]
+	path = witty-errors
+	url = https://github.com/gdianaty/witty-errors.git
