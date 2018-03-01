@@ -1,0 +1,23 @@
+{
+  "name": "witty-asset-pipeline",
+  "version": "1.0.0",
+  "description": "NodeJS backend for Witty Errors Asset Server",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdianaty/witty-errors.git"
+  },
+  "author": "Graham Dianaty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdianaty/witty-errors/issues"
+  },
+  "homepage": "https://github.com/gdianaty/witty-errors#readme"
+}
