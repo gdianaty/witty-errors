@@ -7,6 +7,7 @@ Written with Boostrap.
 
 The errors supported at this time as are follows:
 ```
+Error 400 - Request Not Handled
 Error 401 - Login Required
 Error 402 - HOW DID YOU GET HERE
 Error 403 - Access Denied from Server
