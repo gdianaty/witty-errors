@@ -1,6 +1,5 @@
 ### Witty Errors ###
-Text taken from [here](https://error.gmdianaty.com)
-Assets stored [here](https://github.com/gdianaty/witty-errors/tree/asset)
+Text taken from [here](https://error.gmdianaty.com), assets stored [here](https://github.com/gdianaty/witty-errors/tree/asset)
 
 A small project written by myself with humor from OrionNexus that simply replaces all those boring old Apache or NGINX error messages with much less agrivating screens that are in the Solarized color palete, complete with jokes and detailed explinations for end users.
 
